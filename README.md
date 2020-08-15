@@ -24,11 +24,11 @@
 
 Alestra es el único proveedor de Innovación Digital con más de 20 años como líder en transformación digital y más de 10 años de experiencia en soluciones de innovación corporativa. A través de su portafolio habilita a las organizaciones con soluciones de redes administradas, colaboración, ciberseguridad, nube e integración de sistemas, en alianza con fabricantes tecnológicos líderes en el mundo.
 
-<!--<div align="center">
-    <a href="">
+<div align="center">
+    <a href="https://www.youtube.com/watch?v=TMBUmSwOwaw">
        <img width="50%" src="./doc/source/images/yt1-es.png" alt='video'>
     </a>
-</div>-->
+</div>
 
 ## 2. Reto de Negocio
 
