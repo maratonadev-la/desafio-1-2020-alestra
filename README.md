@@ -121,32 +121,32 @@ La sección de skill incluye el skillId
 <div align="center">
     <h2><b>SkillId Watson Assistant</b></h2>
     <h3><b>Clic en los tres puntos</b></h3>
-    <img width="750" src="doc/source/images/WASKILL1.png">
+    <img width="750" src="./doc/source/images/WASKILL1.png">
     <h3><b>Clic en View API Details</b></h3>
-    <img width="750" src="doc/source/images/WASKILL2.png">
+    <img width="750" src="./doc/source/images/WASKILL2.png">
     <h3><b>SkillId</b></h3>
-    <img width="750" src="doc/source/images/WASKILL3.png">
+    <img width="750" src="./doc/source/images/WASKILL3.png">
 </div>
 
 En la sección Asistente creará un asistente.
 <div align="center">
     <h2><b>Assistant</b></h2>
     <h3><b>Crea un assistant</b></h3>
-    <img width="750" src="doc/source/images/WAASISTANT1.png">
+    <img width="750" src="./doc/source/images/WAASISTANT1.png">
     <h3><b>Da un nombre y crea un assistant</b></h3>
-    <img width="750" src="doc/source/images/WAASISTANT2.png">
+    <img width="750" src="./doc/source/images/WAASISTANT2.png">
     <h3><b>Adiciona una skill</b></h3>
-    <img width="750" src="doc/source/images/WAASISTANT3.png">
+    <img width="750" src="./doc/source/images/WAASISTANT3.png">
     <h3><b>Seleciona tu skill</b></h3>
-    <img width="750" src="doc/source/images/WAASISTANT4.png">
+    <img width="750" src="./doc/source/images/WAASISTANT4.png">
     <h3><b>Clic en tres puntos</b></h3>
-    <img width="750" src="doc/source/images/WAASISTANT5.png">
+    <img width="750" src="./doc/source/images/WAASISTANT5.png">
     <h3><b>Clic en Settings</b></h3>
-    <img width="750" src="doc/source/images/WAASISTANT6.png">
+    <img width="750" src="./doc/source/images/WAASISTANT6.png">
     <h3><b>Clic en API Details</b></h3>
-    <img width="750" src="doc/source/images/WAASISTANT7.png">
+    <img width="750" src="./doc/source/images/WAASISTANT7.png">
     <h3><b>Copy AssistantId</b></h3>
-    <img width="750" src="doc/source/images/WAASISTANT8.png">
+    <img width="750" src="./doc/source/images/WAASISTANT8.png">
 </div>
 
 ## 5. Envío
@@ -163,13 +163,13 @@ Para cargar la aplicación en IBM Cloud, debes **hacer clic en el botón a conti
 <div align="center">
     <h2><b>Despliegue de la aplicación</b></h2>
     <h3><b>Toolchain</b></h3>
-    <img width="750" src="doc/source/images/TOOLCHAIN.png">
+    <img width="750" src="./doc/source/images/TOOLCHAIN.png">
     <h3><b>Valida que la aplicacón se haya desplegado</b></h3>
-    <img width="750" src="doc/source/images/DEV_PIPELINE.png">
+    <img width="750" src="./doc/source/images/DEV_PIPELINE.png">
     <h3><b>Abre la aplicación y prueba tu asistente</b></h3>
-    <img width="750" src="doc/source/images/APP.png">
+    <img width="750" src="./doc/source/images/APP.png">
     <h3><b>Envia tu solucón</b></h3>
-    <img width="750" src="doc/source/images/SUBMIT.png">
+    <img width="750" src="./doc/source/images/SUBMIT.png">
 </div>
 
 
