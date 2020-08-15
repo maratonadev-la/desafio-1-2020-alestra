@@ -8,11 +8,11 @@
 - [2. Reto de Negócio](#2-reto-de-negocio)
 - [3. Objetivo](#3-objetivo)
 - [4. Desarrollando la Solución](#4-desarrollando-la-solución)
-  - [4.1. Pre-requisitos](41-pre-requisitos)
+  - [4.1. Pre-requisitos](#41-pre-requisitos)
   - [4.2. Resumen de tareas](#42-resumen-de-las-tareas)
   - [4.3. Desarrollo](#43-desarrollo)
-- [5. Envío](5-envío)
-- [6. Sobre la evaluación](6-sobre-la-evaluación)
+- [5. Envío](#5-envío)
+- [6. Sobre la evaluación](#6-sobre-la-evaluación)
 
 ## Para Ayudarte
 
