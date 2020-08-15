@@ -156,6 +156,8 @@ En la sección Asistente creará un asistente.
 
 Para cargar la aplicación en IBM Cloud, debes **hacer clic en el botón a continuación**, que activará la herramienta IBM Cloud _Continuous Delivery_ (también conocida como _Delivery Pipeline_). La herramienta te pedirá tus credenciales, tu correo electrónico(registro de la Maratón) y una contraseña, que debes elegir y utilizar en el futuro (La llamaremos contraseña del toolchain).
 
+> Aclaración: El nombre del toolchain no puede contener espacios ni caracteres especiales ( - es valido).
+
 <div align="center">
 <p><b>🚨 HAZ CLIC PARA ENVIAR LA APLICACIÓN A IBM CLOUD 🚨</b></p>
 <a href="https://cloud.ibm.com/devops/setup/deploy?repository=https://github.com/maratonadev-la/desafio-1-2020" target="_blank" rel="noopener noreferrer">
