@@ -90,9 +90,9 @@ Al identificar la `intent` de Saludo, su asistente debe responder con un saludo.
 
 Al identificar la `intent` de Adios, su asistente debe terminar la conversación con una despedida.
 
-Al identificar la Solicitud de `intent`, su asistente debe identificar la solicitud (`Request intent`), el tipo de solicitud (`request entity`) y la aplicación correspondiente (`application entity`) . El asistente debe responder informando el tipo de solicitud y aplicación, junto con un número de ticket generado para esta solicitud. Adicionalmente el asistente debe preguntar si el usuario quiere acceso al reporte de la solicitud en el futuro (Si o No). Para este nodo es recomendable utilizar el nodo Problem_report como ejemplo.
+Al identificar la Solicitud de `intent`, su asistente debe identificar la solicitud (`Request intent`), el tipo de solicitud (`request entity`) y la aplicación correspondiente (`application entity`) . El asistente debe responder informando el tipo de solicitud y aplicación, junto con un número de incidente generado para esta solicitud. Adicionalmente el asistente debe preguntar si el usuario quiere acceso al reporte de la solicitud en el futuro (Si o No). Para este nodo es recomendable utilizar el nodo Problem_report como ejemplo.
 
-> Aclaración: El número de reporte siempre lo debe responder junto con el tipo de solicitud y aplicación. Y preguntar si desea acceso a un reporte.. el reporte no es lo mismo al numero del incidente. despues de la pregunta deben esperar el "si" o "no" y responder en casi que sea un “Si” con un acceso concedido al reporte o algo por el estilo que diga que tiene acceso al reporte
+> Aclaración: El número de incidente siempre lo debe responder junto con el tipo de solicitud y aplicación. Y preguntar si desea acceso a un reporte.. el reporte no es lo mismo al numero del incidente. despues de la pregunta deben esperar el "si" o "no" y responder en casi que sea un “Si” con un acceso concedido al reporte o algo por el estilo que diga que tiene acceso al reporte
 
 
 Las `intents` ya están completadas, pero eso no significa que no puedas agregar o eliminar ejemplos, ya que estas modificaciones pueden mejorar la confianza en la identificación del modelo. No dudes en realizar los cambios que consideres necesarios siempre que el resultado sea el especificado anteriormente.
