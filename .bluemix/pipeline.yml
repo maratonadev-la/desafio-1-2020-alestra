@@ -56,15 +56,16 @@ stages:
         script: |
           #!/bin/bash
           # Push app
-          if ! cf app $CF_APP; then  
-            cf push $CF_APP --random-route --no-start -m 128M
-            cf set-env $CF_APP WA_APIKEY ${WA_APIKEY}
-            cf set-env $CF_APP WA_ASSISTANT_ID ${WA_ASSISTANT_ID}
-            cf set-env $CF_APP WA_SKILL_ID ${WA_SKILL_ID}
-            cf set-env $CF_APP WA_URL ${WA_URL}
-            cf set-env $CF_APP USER_EMAIL ${USER_EMAIL}
-            cf set-env $CF_APP DEPLOYMENT_PASSWORD ${DEPLOYMENT_PASSWORD}
-            cf start $CF_APP
+          if ! cf app "$CF_APP"; then  
+            cf push "$CF_APP" --random-route --no-start -m 128M
+            cf set-env "$CF_APP" WA_APIKEY ${WA_APIKEY}
+            cf set-env "$CF_APP" WA_ASSISTANT_ID ${WA_ASSISTANT_ID}
+            cf set-env "$CF_APP" WA_SKILL_ID ${WA_SKILL_ID}
+            cf set-env "$CF_APP" WA_URL ${WA_URL}
+            cf set-env "$CF_APP" USER_EMAIL ${USER_EMAIL}
+            cf set-env "$CF_APP" DEPLOYMENT_PASSWORD "${DEPLOYMENT_PASSWORD}"
+            cf start "$CF_APP"
+            echo "Despliegue realizado. Tu contraseña para envío es ${DEPLOYMENT_PASSWORD}"
           else
             OLD_CF_APP=${CF_APP}-OLD-$(date +"%s")
             rollback() {
