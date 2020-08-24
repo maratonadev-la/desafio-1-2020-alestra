@@ -197,6 +197,9 @@ El tiempo de entrega no se incluye en el cálculo de la puntuación del desafío
 
 Mira el [video explicativo](#43-desarrollo) provisto en la Sección 4, o si lo deseas, revisa la documentación de los servicios involucrados en este desafío:
 
+- [Video Dudas Retos de la Maratón](https://www.youtube.com/watch?v=9HsfPf6QrLc)
+- [Video solución dudas comunes desafío 1 y 2](https://www.youtube.com/watch?v=vmiQ54bK65I)
+- [Video ¿Como mejorar el puntaje en los desafios 1 y 2?](https://www.youtube.com/watch?v=1VbxxVkd-xI)
 - [IBM Watson Assistant](https://cloud.ibm.com/docs/assistant?topic=assistant-getting-started)
 
 Accede al discord oficial de la Maratón 2020 para hacer preguntas y/o interactuar con otros participantes: [Discord](https://discord.gg/Q9At74C).
